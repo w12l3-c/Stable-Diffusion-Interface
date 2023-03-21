@@ -10,6 +10,8 @@ This includes Text to Image, Image to Image, Inpainting, DreamBooth, ControlNet 
 
 I will implement LoRA and the model OrangeMixs later.
 
+I will upload the notebook to github once I am done, though you can still access it with the button above.
+
 Currently: <br>
 Hands are still bad but I haven't tune most of the hyperparameter yet. <br>
 <img src="https://user-images.githubusercontent.com/97126484/226652231-2dcc9019-149b-412a-9302-8199c2a6f681.png" width="200" height="200"/><br>
