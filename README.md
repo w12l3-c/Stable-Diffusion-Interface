@@ -19,4 +19,4 @@ Hands are still bad but I haven't tune most of the hyperparameter yet. <br>
 
 Disclaimer: Yes I do actually draw both digitally and pencil, this is not used for any commercial purpose <br>
 For Example (Plz don't flame me): <br>
-<img src="https://user-images.githubusercontent.com/97126484/226651111-86cc2e87-4e77-461a-a1cd-0a23e112b413.png" width="400" height="250"/><br>
+<img src="https://user-images.githubusercontent.com/97126484/226651111-86cc2e87-4e77-461a-a1cd-0a23e112b413.png" width="300" height="175"/><br>
